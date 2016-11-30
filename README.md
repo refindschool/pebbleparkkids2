@@ -1,10 +1,15 @@
-# A Blank PhoneGap App
-
+# A PhoneGap App
+pebble park kids 2
+## Subject 
+App on Android to teach your kids about Internet Safety real time, each time they run in to a blocked page. Blocking alone is not enough! 
 ## Usage
 
-### PhoneGap CLI
+### Simulate the app in browser
+    $ phonegap serve --browser
 
-    $ phonegap create my-app --template blank
+### Build android project 
+
+    $ phonegap build android 
 
 ### Desktop
 
